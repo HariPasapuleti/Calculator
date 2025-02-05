@@ -17,15 +17,15 @@ A simple and interactive calculator web application built using HTML, CSS, and J
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/HariPasapuleti/calculator.git
+    git clone https://github.com/HariPasapuleti/Calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd calculator
+    cd Calculator
     ```
 3. Open `index.html` in your web browser.
 4. Use the buttons to perform calculations.
 5. Toggle the theme using the theme toggler button.
 
 ## Demo
-You can view a live demo of the app [here](#) (Add demo link if available).
+You can view a live demo of the app [here](https://haripasapuleti.github.io/Calculator/).
